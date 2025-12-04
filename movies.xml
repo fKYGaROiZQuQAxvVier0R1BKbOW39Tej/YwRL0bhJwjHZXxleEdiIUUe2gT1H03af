@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<movies>
+    <movie>
+        <movieTitle>The Matrix</movieTitle>
+        <profit>463.5</profit>
+        <movieGenre>Sci-Fi</movieGenre>
+        <releaseDate>1999-03-31</releaseDate>
+        <platform>Netflix</platform>
+    </movie>
+    <movie>
+        <movieTitle>Inception</movieTitle>
+        <profit>836.8</profit>
+        <movieGenre>Thriller</movieGenre>
+        <releaseDate>2010-07-16</releaseDate>
+        <platform>HBO Max</platform>
+    </movie>
+    <movie>
+        <movieTitle>The Godfather</movieTitle>
+        <profit>250.0</profit>
+        <movieGenre>Crime</movieGenre>
+        <releaseDate>1972-03-24</releaseDate>
+        <platform>Paramount+</platform>
+    </movie>
+    <movie>
+        <movieTitle>Interstellar</movieTitle>
+        <profit>677.5</profit>
+        <movieGenre>Sci-Fi</movieGenre>
+        <releaseDate>2014-11-07</releaseDate>
+        <platform>Amazon Prime</platform>
+    </movie>
+</movies>
